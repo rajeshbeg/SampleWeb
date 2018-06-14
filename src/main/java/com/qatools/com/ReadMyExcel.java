@@ -40,8 +40,6 @@ public class ReadMyExcel {
 		
 		}
 		// Read Excel Column 
-
-		wb.close();
 	return executeTC;
 	}
 	
